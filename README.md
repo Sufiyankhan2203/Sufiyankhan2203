@@ -55,7 +55,7 @@ More projects on [my blog](https://sufiyan.me/).
 
 ## 📬 Connect with Me  
 
-🌐 **Portfolio**: [sufiyan.me](https://sufiyan.me/)  
+🌐 **Portfolio**: [sufiyan.dev](https://sufiyan.dev/)  
 💼 **LinkedIn**: [Sufiyan Khan](https://www.linkedin.com/in/sufiyan-khan-76b77291/)  
 📧 **Email**: [sufi9188@gmail.com](mailto:sufi9188@gmail.com)
 
